@@ -1,2 +1,6 @@
 first line in cccc
+<<<<<<< HEAD
 third line in cccc
+=======
+second line
+>>>>>>> b1
